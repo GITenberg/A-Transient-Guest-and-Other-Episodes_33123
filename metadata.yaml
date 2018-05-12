@@ -14,6 +14,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/Edgar_Saltus
 description: A translent guest -- The grand duke's rubies -- A maid of modern Athens
   -- Fausta.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/33123#A-Transient-Guest-and-Other-Episodes
 gutenberg_issued: '2010-07-09'
 gutenberg_type: Text
 identifiers:
