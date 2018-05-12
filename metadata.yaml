@@ -1,0 +1,32 @@
+_repo: A-Transient-Guest-and-Other-Episodes_33123
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Saltus, Edgar
+    alias: Saltus, Edgar Evertson
+    birthdate: 1855
+    deathdate: 1921
+    gutenberg_agent_id: '1417'
+    url: http://www.gutenberg.org/2009/agents/1417
+    wikipedia: http://en.wikipedia.org/wiki/Edgar_Saltus
+description: A translent guest -- The grand duke's rubies -- A maid of modern Athens
+  -- Fausta.
+gutenberg_issued: '2010-07-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33123'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Fiction'
+- !lcsh 'Short stories'
+tableOfContents: A transient guest -- The grand duke's rubies -- A maid of modern
+  Athens -- Fausta.
+title: A Transient Guest, and Other Episodes
+url: http://www.gutenberg.org/ebooks/33123
